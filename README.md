@@ -54,6 +54,11 @@ To make a flawless red-eye removing algorithm
 </table>
 <br><br>
 
-### CONCLUSIONS AND FUTURE WORK
+### Output of the Work
+ 
+
+
+<br><br>
+### Conclusion and Future work
 Automatic red eye removal algorithm has been presented based on the Cascade Classifier algorithm. The experimental results are satisfied with high PSNR rates, relatively low Mean Square Error as mentioned in table1. The next step will focus on improving the performance of feature detection. The results show that the result of the base paper is better than our work but close.
 
