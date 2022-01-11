@@ -3,10 +3,10 @@
 ### Abstract:
 The red-eye effect is typically produced by consumer  photos taken with the  built-in camera flash. Section presents a new algorithm for automatically removing red-eye from digital photography. The proposed algorithm can automatically remove red eyes without manual intervention. First, it uses the Cascade Classifier algorithm to recognize the  plane. The red eye is then placed using segmentation operations, morphology, and geometric constraints. Finally,  completely corrects the red eye found. The experimental results of the are satisfied with the high correction factor, the relatively low  computational complexity of the , and the robustness.
 <br><br>
-### Objective of the Work
+### Objective of the Work:
 To make a flawless red-eye removing algorithm
 <br><br>
-### Results
+### Results:
 <table>
   <tr>
     <th>
@@ -54,12 +54,13 @@ To make a flawless red-eye removing algorithm
 </table>
 <br><br>
 
-### Output of the Work 
+### Output of the Work :
+<br>
 ![output1](https://user-images.githubusercontent.com/68811697/148947708-37f92255-7a8a-4cac-9c65-5c1e6397e44e.png)
-![output2](https://user-images.githubusercontent.com/68811697/148947884-71ae7922-369b-4f0d-a405-9e32febd6af7.png)
-
-
 <br><br>
-### Conclusion and Future work
+![output2](https://user-images.githubusercontent.com/68811697/148947884-71ae7922-369b-4f0d-a405-9e32febd6af7.png)
+<br><br>
+
+### Conclusion and Future work:
 Automatic red eye removal algorithm has been presented based on the Cascade Classifier algorithm. The experimental results are satisfied with high PSNR rates, relatively low Mean Square Error as mentioned in table1. The next step will focus on improving the performance of feature detection. The results show that the result of the base paper is better than our work but close.
 
