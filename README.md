@@ -55,7 +55,6 @@ To make a flawless red-eye removing algorithm
 <br><br>
 
 ### Output of the Work :
-<br><br>
 ![output1](https://user-images.githubusercontent.com/68811697/148947708-37f92255-7a8a-4cac-9c65-5c1e6397e44e.png)
 <br><br>
 ![output2](https://user-images.githubusercontent.com/68811697/148947884-71ae7922-369b-4f0d-a405-9e32febd6af7.png)
