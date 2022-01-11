@@ -1,20 +1,7 @@
 # Red-Eye-Removal
-///////////////////////////////////////////////////////////////////////////////<br>
-Input Images (folder): <br>
-	It contains all the Input Images used in this project namely<br> 
-	red_eye1,red_eye2 and etc.<br>
-///////////////////////////////////////////////////////////////////////////////<br>
-Output Images (folder):<br>
-	It contains all the Outputs obtained from this project, namely---- <br>
-	----1,2,3,4,5,6 (folder):<br>
-		Each file contains the existing work's result image and<br> 
-		proposed work's result image.<br>
-///////////////////////////////////////////////////////////////////////////////<br>
-red_eye (.py): <br>
-	This contains the python code for the existing and proposed algorithm.<br>
-///////////////////////////////////////////////////////////////////////////////<br>
 
-Red-Eye Removal paper (.docx):<br>
-	This word document contains from Introduction to Proposed algorithm<br> 
-	and Experimental results.<br>
-///////////////////////////////////////////////////////////////////////////////<br>
+# Abstract:
+The red-eye effect is typically produced by consumer  photos taken with the  built-in camera flash. Section presents a new algorithm for automatically removing red-eye from digital photography. The proposed algorithm can automatically remove red eyes without manual intervention. First, it uses the Cascade Classifier algorithm to recognize the  plane. The red eye is then placed using segmentation operations, morphology, and geometric constraints. Finally,  completely corrects the red eye found. The experimental results of the are satisfied with the high correction factor, the relatively low  computational complexity of the , and the robustness.
+
+## Objective of the Work
+To make a flawless red-eye removing algorithm
