@@ -1,1 +1,20 @@
 # Red-Eye-Removal
+///////////////////////////////////////////////////////////////////////////////
+Input Images (folder): 
+	It contains all the Input Images used in this project namely 
+	red_eye1,red_eye2 and etc.
+///////////////////////////////////////////////////////////////////////////////
+Output Images (folder):
+	It contains all the Outputs obtained from this project, namely---- 
+	----1,2,3,4,5,6 (folder):
+		Each file contains the existing work's result image and 
+		proposed work's result image.
+///////////////////////////////////////////////////////////////////////////////
+red_eye (.py): 
+	This contains the python code for the existing and proposed algorithm.
+///////////////////////////////////////////////////////////////////////////////
+
+Red-Eye Removal paper (.docx):
+	This word document contains from Introduction to Proposed algorithm 
+	and Experimental results.
+///////////////////////////////////////////////////////////////////////////////
